@@ -1,0 +1,1 @@
+The Odin Project [JavaScript React Introduction](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/javascript/lessons/react-introduction)
