@@ -13,3 +13,5 @@ JavaScript for [Impatient Programmers](https://exploringjs.com/impatient-js/toc.
 Free JavaScript [Resources] (https://www.java5cript.com/)
 
 Fullstack [Open] (https://fullstackopen.com/en/)
+
+Make [fetch()](https://dmitripavlutin.com/javascript-fetch-async-await/) happen
