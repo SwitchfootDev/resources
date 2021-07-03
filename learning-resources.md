@@ -15,3 +15,7 @@ Free JavaScript [Resources] (https://www.java5cript.com/)
 Fullstack [Open] (https://fullstackopen.com/en/)
 
 Make [fetch()](https://dmitripavlutin.com/javascript-fetch-async-await/) happen
+
+[Building the Facebook News Feed with Relay](https://reactjs.org/blog/2015/03/19/building-the-facebook-news-feed-with-relay.html)
+
+[Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)
